@@ -1,0 +1,25 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "Ambassador",
+            "address": "M\u00c3\u00bcllerstrasse",
+            "floor": "2",
+            "city": "Z\u00c3\u00bcrich",
+            "postal_code": "8152",
+            "boxes": []
+        }
+    ],
+    "kasten": [
+        {
+            "id": 1,
+            "name": "ErsteHilfe",
+            "gross": true
+        },
+        {
+            "id": 2,
+            "name": "Notfall",
+            "gross": false
+        }
+    ]
+}
